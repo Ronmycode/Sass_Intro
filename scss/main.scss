@@ -1,3 +1,9 @@
+@import 'config';
+
 body{
-    background-color: brown;
+    background-color: $primary-color;
+    color: white;
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1;
 }
